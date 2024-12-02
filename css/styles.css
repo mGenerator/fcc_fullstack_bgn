@@ -1,8 +1,8 @@
-/* changes the background color of body*/
-#welcome{
-  background-color: green; /* change to green */
-  /* Random Comment
-  I think the cats are the true masters of this world...
-  AHH...THEY KNOW I KNOW
-  */
+body{
+  background-image: url("https://media1.tenor.com/m/l9lOxq74rc4AAAAC/its-leviosa.gif");
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+h1, p{
+  color: white;
 }
