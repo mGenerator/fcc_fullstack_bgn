@@ -3,8 +3,8 @@ body{
 }
 
 h1{
-   border: 3px dashed purple;
-   border-radius: 10px;
-   padding-top: 10px;
-   padding-left: 40px;
+   outline-style: dashed;
+   border: 2px solid green;
+   outline-offset: 2px;
 }
+
