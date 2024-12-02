@@ -1,8 +1,9 @@
 body{
-  background-image: url("https://media1.tenor.com/m/l9lOxq74rc4AAAAC/its-leviosa.gif");
-  background-repeat: no-repeat;
-  background-size: 50%;
+  
 }
-h1, p{
-  color: white;
+
+h1{
+  border-style: solid;
+  border-width: 10px 5px 11px 22px;
+  border-color: purple blue orange pink;
 }
